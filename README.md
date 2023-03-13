@@ -1,6 +1,8 @@
 # Basic Screenlocker by ChimesOfDestruction  
   
-### The default password is 123, compile first before viewing forms designer or errors will occur.  
+##### The default password is 123, compile first before viewing forms designer or errors will occur.  
+  
+### About:  
 * All the code has been commented and described, you can edit it to your liking.  
 * Includes startup method. (Copy to startup folder)  
 * Currently undetected by Windows Defender and many antiviruses.  
