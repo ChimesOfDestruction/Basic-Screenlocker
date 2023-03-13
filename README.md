@@ -5,9 +5,13 @@
 #### Includes startup.  
 #### Currently undetected by Windows Defender and many antiviruses.  
   
-
+### TODO:
+* Self-delete instead of adding placeholder file.
+* Feel free to suggest improvements/features in Issues tab.  
+  
+##### Full Compile Tutorial & Defender scan showcase:  
 https://user-images.githubusercontent.com/127018596/224770288-b007e30b-e4b2-42e2-8ad2-b2d67d3f83f0.mp4
-
+  
 
 
     
