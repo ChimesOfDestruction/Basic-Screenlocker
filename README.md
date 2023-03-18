@@ -5,7 +5,8 @@
 ### About:  
 * All the code has been commented and described, you can edit it to your liking.  
 * Includes startup method. (Copy to startup folder)  
-* Currently undetected by Windows Defender and many antiviruses.  
+* ~~Currently undetected by Windows Defender and many antiviruses.~~  
+* Now detected by antiviruses, RIP.
   
 ### TODO:
 * Self-delete instead of adding placeholder file.
